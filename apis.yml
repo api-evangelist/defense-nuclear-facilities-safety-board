@@ -33,6 +33,15 @@ tags:
   - Defense
   - DNFSB
   - Energy
+  - Federal-Government
+  - Health
+  - Independent Agency
+  - Nuclear
+  - Safety
+tags_raw:
+  - Defense
+  - DNFSB
+  - Energy
   - Federal Government
   - Health
   - Independent Agency
@@ -49,6 +58,9 @@ apis:
       publications. The site does not expose a developer API.
     humanURL: https://www.dnfsb.gov
     tags:
+      - Federal-Government
+      - Website
+    tags_raw:
       - Federal Government
       - Website
     properties:
