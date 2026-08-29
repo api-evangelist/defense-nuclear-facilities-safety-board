@@ -11,6 +11,8 @@ description: >-
   agency does not publish a developer-oriented API; programmatic users rely
   on document downloads, RSS feeds, and Federal Register integrations.
 url: https://raw.githubusercontent.com/api-evangelist/defense-nuclear-facilities-safety-board/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 type: Index
 deliveryModel:
   model: unknown
