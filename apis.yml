@@ -46,7 +46,7 @@ tags:
   - Defense
   - DNFSB
   - Energy
-  - Federal-Government
+  - Federal Government
   - Health
   - Independent Agency
   - Nuclear
@@ -60,6 +60,7 @@ tags_raw:
   - Independent Agency
   - Nuclear
   - Safety
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 apis:
@@ -71,11 +72,12 @@ apis:
       publications. The site does not expose a developer API.
     humanURL: https://www.dnfsb.gov
     tags:
-      - Federal-Government
+      - Federal Government
       - Websites
     tags_raw:
       - Federal Government
       - Website
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.dnfsb.gov
@@ -95,6 +97,7 @@ apis:
       - type: Documentation
         url: https://www.dnfsb.gov/documents
   - aid: defense-nuclear-facilities-safety-board:defense-nuclear-facilities-safety-board-foia
+    x-published: false
     name: DNFSB FOIA Reading Room
     description: >-
       Online portal that publishes records released under the Freedom of
