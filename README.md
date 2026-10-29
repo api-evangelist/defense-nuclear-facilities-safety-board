@@ -1,4 +1,4 @@
-# Defense Nuclear Facilities Safety Board (defense-nuclear-facilities-safety-board)
+# Defense Nuclear Facilities Safety Board
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,53 +66,103 @@
 
 The Defense Nuclear Facilities Safety Board (DNFSB) is an independent organization within the executive branch of the United States Government chartered to provide recommendations and advice to the President and the Secretary of Energy on public health and safety issues at Department of Energy defense nuclear facilities. The DNFSB publishes recommendations, letters, technical reports, weekly site-representative reports, and rulemaking notices through its public website and FOIA reading room. The agency does not publish a developer-oriented API; programmatic users rely on document downloads, RSS feeds, and Federal Register integrations.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-nuclear-facilities-safety-board/refs/heads/main/apis.yml)
+**Areas:** Defense · DNFSB · Energy · Federal Government · Health · Independent Agency · Nuclear · Safety
 
-## Scope
+## Defense Nuclear Facilities Safety Board on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Defense Nuclear Facilities Safety Board is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-nuclear-facilities-safety-board/](https://apis.io/providers/defense-nuclear-facilities-safety-board/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (3)
 
-- Defense, DNFSB, Energy, Federal Government, Health, Independent Agency, Nuclear, Safety
+- [DNFSB Website](https://apis.io/apis/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-website/) — Public-facing website of the Defense Nuclear Facilities Safety Board providing organizational information, board members, hearings, and publications. The…
+- [DNFSB Recommendations and Reports](https://apis.io/apis/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-recommendations/) — Library of formal recommendations, technical reports, letters, and weekly site-representative reports published by the Defense Nuclear Facilities Safety…
+- [DNFSB FOIA Reading Room](https://apis.io/apis/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-foia/) — Online portal that publishes records released under the Freedom of Information Act and frequently requested documents. Records are browsable and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### DNFSB Website
+Authentication, trust centre, and vulnerability disclosure.
 
-Public-facing website of the Defense Nuclear Facilities Safety Board providing organizational information, board members, hearings, and publications.
+- [Defense Nuclear Facilities Safety Board Domain Security](https://apis.io/security/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-domain-security/)
 
-- **Human URL:** https://www.dnfsb.gov
+#### Plans and pricing (1)
 
-### DNFSB Recommendations and Reports
+Published plans, tiers and prices.
 
-Library of formal recommendations, technical reports, letters, and weekly site-representative reports published by the Defense Nuclear Facilities Safety Board.
+- [Defense Nuclear Facilities Safety Board Plans Pricing](https://apis.io/plans/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-plans-pricing/)
 
-- **Human URL:** https://www.dnfsb.gov/documents
+#### Rate limits (1)
 
-### DNFSB FOIA Reading Room
+Published request limits.
 
-Online portal that publishes records released under the Freedom of Information Act and frequently requested documents.
+- [Defense Nuclear Facilities Safety Board Rate Limits](https://apis.io/rate-limits/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-rate-limits/)
 
-- **Human URL:** https://www.dnfsb.gov/foia
+#### FinOps (1)
 
-## Common Properties
+What the API costs to run, by operation.
+
+- [Defense Nuclear Facilities Safety Board Finops](https://apis.io/finops/defense-nuclear-facilities-safety-board/defense-nuclear-facilities-safety-board-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dnfsb.gov)
 - [Documentation](https://www.dnfsb.gov/documents)
-- [News](https://www.dnfsb.gov/news)
-- [Contact Us](https://www.dnfsb.gov/contact-us)
-- [Privacy Policy](https://www.dnfsb.gov/privacy-and-security)
-- [FOIA](https://www.dnfsb.gov/foia)
+- [Privacy policy](https://www.dnfsb.gov/privacy-and-security)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 12.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.2** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/defense-nuclear-facilities-safety-board/](https://apis.io/providers/defense-nuclear-facilities-safety-board/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Defense Nuclear Facilities Safety Board: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-nuclear-facilities-safety-board/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
